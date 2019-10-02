@@ -1,5 +1,5 @@
-## Udemy-Git Course
-### First Assignment
+### Udemy-Git Course
+### First assignment
 
-Course: Git, Git Hup
-Name: Eslam Abuhomaid
+* Course: Git, Git Hup
+* Name: Eslam Abuhomaid
